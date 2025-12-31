@@ -1,5 +1,3 @@
-author = 'CodeWithHarry'
-
 #Importing The Modules
 import pygame
 import random
@@ -167,4 +165,5 @@ def gameloop():
    pygame.quit()
    quit()
 welcome()
+
 
